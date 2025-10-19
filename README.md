@@ -19,7 +19,7 @@
 
 #### Operating Systems:
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,bsd,debian,fedora,raspberrypi,ubuntu,mint,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bsd,debian,raspberrypi,ubuntu,mint,windows" />
 </p>
 
 #### Other Programs & Websites:
