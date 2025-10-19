@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 - Learning **advanced LuaU & web backend and frontend development**
-- You can sk me about almost anything if I have the knowledge on it!
+- You can ask me about almost anything if I have the knowledge on it!
 
 ---
 
