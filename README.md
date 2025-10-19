@@ -13,7 +13,7 @@
 
 ### 🛠️ What I use
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,bash,cloudflare,css,debian,discord,bots,discordjs,firebase,git,github,githubactions,gmail,gradle,html,java,js,linux,lua,mysql,nextjs,nginx,nodejs,npm,php,powershell,raspberrypi,regex,robloxstudio,sqlite,stackoverflow,unity,vscode" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,cloudflare,css,debian,discord,bots,discordjs,firebase,git,github,html,java,js,linux,lua,nginx,nodejs,,powershell,raspberrypi,robloxstudio,stackoverflow,unity,vscode" />
 </p>
 
 ---
