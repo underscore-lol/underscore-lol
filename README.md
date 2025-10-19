@@ -14,7 +14,7 @@
 ### 🛠️ What I use:
 #### Languages:
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,css,discordjs,html,java,js,lua,nodejs,powershell" />
+  <img src="https://skillicons.dev/icons?i=bash,css,discordjs,html,java,js,lua,nodejs" />
 </p>
 
 #### Operating Systems:
@@ -24,7 +24,7 @@
 
 #### Other Programs & Websites:
 <p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,discord,bots,firebase,git,github,robloxstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,discord,firebase,git,github,powershell,robloxstudio,vscode" />
 </p>
 
 ---
