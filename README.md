@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Rowan (aka underscore) 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Posted2DaDev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=underscore-lol&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
