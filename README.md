@@ -11,9 +11,20 @@
 
 ---
 
-### 🛠️ What I use
+### 🛠️ What I use:
+#### Languages:
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,bash,cloudflare,css,debian,discord,bots,discordjs,firebase,git,github,html,java,js,linux,lua,nginx,nodejs,,powershell,raspberrypi,robloxstudio,stackoverflow,unity,vscode" />
+  <img src="https://skillicons.dev/icons?i=bash,css,discordjs,html,java,js,lua,nodejs,powershell" />
+</p>
+
+#### Operating Systems:
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu,mint,windows" />
+</p>
+
+#### Other Programs & Websites:
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare,discord,bots,firebase,git,github,robloxstudio,vscode" />
 </p>
 
 ---
