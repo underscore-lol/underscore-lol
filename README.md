@@ -14,17 +14,17 @@
 ### 🛠️ What I use:
 #### Languages:
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,css,discordjs,html,java,js,lua,nodejs" />
+  <img src="https://skillicons.dev/icons?i=bash,css,cpp,discordjs,html,java,js,lua,nodejs,php,typescript" />
 </p>
 
 #### Operating Systems:
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu,mint,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bsd,debian,fedora,raspberrypi,ubuntu,mint,windows" />
 </p>
 
 #### Other Programs & Websites:
 <p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,discord,firebase,git,github,powershell,robloxstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,discord,docker,firebase,git,github,powershell,robloxstudio,vscode" />
 </p>
 
 ---
